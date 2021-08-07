@@ -7,6 +7,7 @@ body {
     height: 30px;
     
 }
+
 .borde {
     border-bottom: 3px solid #5bc0de;
 
@@ -14,4 +15,7 @@ body {
 .borde {
     border-bottom: 3px solid #5bc0de;
 
+}
+#iconos {
+    text-decoration: none;
 }

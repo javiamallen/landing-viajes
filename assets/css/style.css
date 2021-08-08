@@ -16,6 +16,10 @@ body {
     border-bottom: 3px solid #5bc0de;
 
 }
-#iconos {
-    text-decoration: none;
-}
+.fab {
+    color: white;
+   
+   }
+   html {
+    scroll-behavior:smooth;
+    }
